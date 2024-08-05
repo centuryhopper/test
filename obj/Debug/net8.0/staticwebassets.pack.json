@@ -1,0 +1,1177 @@
+{
+  "Files": [
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js",
+      "PackagePath": "staticwebassets/_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication/AuthenticationService.js"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Microsoft.Authentication.WebAssembly.Msal/AuthenticationService.js",
+      "PackagePath": "staticwebassets/_content/Microsoft.Authentication.WebAssembly.Msal/AuthenticationService.js"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/Radzen.Blazor.js",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/Radzen.Blazor.js"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/dark-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/dark-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/dark-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/dark-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/dark.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/dark.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/default-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/default-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/default-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/default-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/default.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/default.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/humanistic-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/humanistic-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/humanistic-dark-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/humanistic-dark-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/humanistic-dark-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/humanistic-dark-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/humanistic-dark.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/humanistic-dark.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/humanistic-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/humanistic-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/humanistic.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/humanistic.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/material-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/material-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/material-dark-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/material-dark-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/material-dark-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/material-dark-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/material-dark.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/material-dark.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/material-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/material-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/material.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/material.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/software-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/software-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/software-dark-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/software-dark-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/software-dark-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/software-dark-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/software-dark.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/software-dark.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/software-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/software-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/software.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/software.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/standard-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/standard-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/standard-dark-base.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/standard-dark-base.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/standard-dark-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/standard-dark-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/standard-dark.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/standard-dark.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/standard-wcag.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/standard-wcag.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/css/standard.css",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/css/standard.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/fonts/MaterialSymbolsOutlined.woff2",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/fonts/MaterialSymbolsOutlined.woff2"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/fonts/RobotoFlex.woff2",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/fonts/RobotoFlex.woff2"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/fonts/SourceSans3VF-Italic.ttf.woff2",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/fonts/SourceSans3VF-Italic.ttf.woff2"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2",
+      "PackagePath": "staticwebassets/_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Blazored.LocalStorage.wasm",
+      "PackagePath": "staticwebassets/_framework/Blazored.LocalStorage.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Blazored.LocalStorage.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Blazored.LocalStorage.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Blazored.LocalStorage.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Blazored.LocalStorage.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.Forms.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.Forms.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.Forms.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.Web.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.Web.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.Web.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.AspNetCore.Components.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.AspNetCore.Components.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.CSharp.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.CSharp.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.CSharp.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.CSharp.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.CSharp.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.CSharp.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.Json.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.Json.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.Json.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Configuration.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Configuration.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.DependencyInjection.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.DependencyInjection.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.DependencyInjection.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Logging.Abstractions.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Logging.Abstractions.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Logging.Abstractions.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Logging.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Logging.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Logging.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Logging.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Logging.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Logging.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Options.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Options.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Options.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Options.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Options.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Options.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Primitives.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Primitives.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Primitives.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Primitives.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.Extensions.Primitives.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.Extensions.Primitives.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.JSInterop.WebAssembly.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.JSInterop.WebAssembly.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.JSInterop.WebAssembly.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.JSInterop.wasm",
+      "PackagePath": "staticwebassets/_framework/Microsoft.JSInterop.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.JSInterop.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Microsoft.JSInterop.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Microsoft.JSInterop.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Microsoft.JSInterop.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Newtonsoft.Json.wasm",
+      "PackagePath": "staticwebassets/_framework/Newtonsoft.Json.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Newtonsoft.Json.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Newtonsoft.Json.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Newtonsoft.Json.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Newtonsoft.Json.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Radzen.Blazor.wasm",
+      "PackagePath": "staticwebassets/_framework/Radzen.Blazor.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Radzen.Blazor.wasm.br",
+      "PackagePath": "staticwebassets/_framework/Radzen.Blazor.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/Radzen.Blazor.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/Radzen.Blazor.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Concurrent.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Concurrent.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Concurrent.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Concurrent.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Concurrent.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Concurrent.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Immutable.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Immutable.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Immutable.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Immutable.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Immutable.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Immutable.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.NonGeneric.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Collections.NonGeneric.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.NonGeneric.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Collections.NonGeneric.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.NonGeneric.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Collections.NonGeneric.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Specialized.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Specialized.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Specialized.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Specialized.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.Specialized.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Collections.Specialized.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Collections.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Collections.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Collections.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Collections.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.Annotations.wasm",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.Annotations.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.Annotations.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.Annotations.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.Annotations.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.Annotations.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.Primitives.wasm",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.Primitives.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.Primitives.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.Primitives.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.Primitives.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.Primitives.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.TypeConverter.wasm",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.TypeConverter.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.TypeConverter.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.TypeConverter.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.TypeConverter.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.TypeConverter.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.wasm",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ComponentModel.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.ComponentModel.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Console.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Console.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Console.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Console.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Console.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Console.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Core.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Core.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Core.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Core.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Core.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Core.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Data.Common.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Data.Common.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Data.Common.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Data.Common.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Data.Common.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Data.Common.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Diagnostics.DiagnosticSource.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Diagnostics.DiagnosticSource.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Diagnostics.DiagnosticSource.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Diagnostics.DiagnosticSource.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Diagnostics.DiagnosticSource.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Diagnostics.DiagnosticSource.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Diagnostics.TraceSource.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Diagnostics.TraceSource.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Diagnostics.TraceSource.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Diagnostics.TraceSource.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Diagnostics.TraceSource.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Diagnostics.TraceSource.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Drawing.Primitives.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Drawing.Primitives.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Drawing.Primitives.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Drawing.Primitives.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Drawing.Primitives.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Drawing.Primitives.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Drawing.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Drawing.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Drawing.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Drawing.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Drawing.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Drawing.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.IO.MemoryMappedFiles.wasm",
+      "PackagePath": "staticwebassets/_framework/System.IO.MemoryMappedFiles.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.IO.MemoryMappedFiles.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.IO.MemoryMappedFiles.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.IO.MemoryMappedFiles.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.IO.MemoryMappedFiles.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Dynamic.Core.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Dynamic.Core.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Dynamic.Core.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Dynamic.Core.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Dynamic.Core.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Dynamic.Core.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Expressions.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Expressions.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Expressions.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Expressions.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Expressions.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Expressions.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Queryable.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Queryable.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Queryable.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Queryable.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.Queryable.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Linq.Queryable.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Linq.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Linq.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Linq.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Linq.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Memory.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Memory.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Memory.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Memory.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Memory.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Memory.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Http.Json.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Net.Http.Json.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Http.Json.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Net.Http.Json.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Http.Json.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Net.Http.Json.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Http.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Net.Http.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Http.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Net.Http.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Http.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Net.Http.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Primitives.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Net.Primitives.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Primitives.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Net.Primitives.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Net.Primitives.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Net.Primitives.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ObjectModel.wasm",
+      "PackagePath": "staticwebassets/_framework/System.ObjectModel.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ObjectModel.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.ObjectModel.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.ObjectModel.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.ObjectModel.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.CoreLib.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Private.CoreLib.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.CoreLib.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Private.CoreLib.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.CoreLib.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Private.CoreLib.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Uri.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Private.Uri.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Uri.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Private.Uri.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Uri.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Private.Uri.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Xml.Linq.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Private.Xml.Linq.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Xml.Linq.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Private.Xml.Linq.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Xml.Linq.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Private.Xml.Linq.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Xml.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Private.Xml.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Xml.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Private.Xml.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Private.Xml.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Private.Xml.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.ILGeneration.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.ILGeneration.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.ILGeneration.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.ILGeneration.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.ILGeneration.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.ILGeneration.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.Lightweight.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.Lightweight.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.Lightweight.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.Lightweight.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.Lightweight.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.Lightweight.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Emit.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Emit.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Metadata.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Metadata.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Metadata.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Metadata.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Metadata.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Metadata.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Primitives.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Primitives.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Primitives.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Primitives.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Reflection.Primitives.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Reflection.Primitives.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.InteropServices.JavaScript.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.InteropServices.JavaScript.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.InteropServices.JavaScript.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.InteropServices.JavaScript.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.InteropServices.JavaScript.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.InteropServices.JavaScript.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.InteropServices.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.InteropServices.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.InteropServices.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.InteropServices.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.InteropServices.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.InteropServices.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Numerics.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Numerics.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Numerics.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Numerics.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Numerics.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Numerics.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Serialization.Formatters.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Serialization.Formatters.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Serialization.Formatters.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Serialization.Formatters.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Serialization.Formatters.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Serialization.Formatters.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Serialization.Primitives.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Serialization.Primitives.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Serialization.Primitives.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Serialization.Primitives.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.Serialization.Primitives.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.Serialization.Primitives.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Runtime.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Runtime.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Security.Cryptography.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Security.Cryptography.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Security.Cryptography.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Security.Cryptography.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Security.Cryptography.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Security.Cryptography.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Encoding.Extensions.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Text.Encoding.Extensions.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Encoding.Extensions.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Text.Encoding.Extensions.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Encoding.Extensions.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Text.Encoding.Extensions.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Encodings.Web.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Text.Encodings.Web.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Encodings.Web.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Text.Encodings.Web.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Encodings.Web.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Text.Encodings.Web.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Json.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Text.Json.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Json.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Text.Json.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.Json.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Text.Json.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.RegularExpressions.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Text.RegularExpressions.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.RegularExpressions.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Text.RegularExpressions.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Text.RegularExpressions.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Text.RegularExpressions.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Threading.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Threading.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Threading.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Threading.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Threading.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Threading.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Web.HttpUtility.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Web.HttpUtility.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Web.HttpUtility.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Web.HttpUtility.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Web.HttpUtility.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Web.HttpUtility.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.Linq.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Xml.Linq.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.Linq.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Xml.Linq.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.Linq.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Xml.Linq.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.ReaderWriter.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Xml.ReaderWriter.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.ReaderWriter.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Xml.ReaderWriter.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.ReaderWriter.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Xml.ReaderWriter.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.XDocument.wasm",
+      "PackagePath": "staticwebassets/_framework/System.Xml.XDocument.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.XDocument.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.Xml.XDocument.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.Xml.XDocument.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.Xml.XDocument.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.wasm",
+      "PackagePath": "staticwebassets/_framework/System.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.wasm.br",
+      "PackagePath": "staticwebassets/_framework/System.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/System.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/System.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/blazor.boot.json",
+      "PackagePath": "staticwebassets/_framework/blazor.boot.json"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/blazor.boot.json.br",
+      "PackagePath": "staticwebassets/_framework/blazor.boot.json.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/blazor.boot.json.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.boot.json.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/blazor.webassembly.js.br",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/blazor.webassembly.js.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.js",
+      "PackagePath": "staticwebassets/_framework/dotnet.js"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.js.br",
+      "PackagePath": "staticwebassets/_framework/dotnet.js.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.js.gz",
+      "PackagePath": "staticwebassets/_framework/dotnet.js.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.native.8.0.7.8qtx5kqejh.js",
+      "PackagePath": "staticwebassets/_framework/dotnet.native.8.0.7.8qtx5kqejh.js"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.native.8.0.7.8qtx5kqejh.js.br",
+      "PackagePath": "staticwebassets/_framework/dotnet.native.8.0.7.8qtx5kqejh.js.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.native.8.0.7.8qtx5kqejh.js.gz",
+      "PackagePath": "staticwebassets/_framework/dotnet.native.8.0.7.8qtx5kqejh.js.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.native.wasm",
+      "PackagePath": "staticwebassets/_framework/dotnet.native.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.native.wasm.br",
+      "PackagePath": "staticwebassets/_framework/dotnet.native.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.native.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/dotnet.native.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.runtime.8.0.7.b9ehw74ds4.js",
+      "PackagePath": "staticwebassets/_framework/dotnet.runtime.8.0.7.b9ehw74ds4.js"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.runtime.8.0.7.b9ehw74ds4.js.br",
+      "PackagePath": "staticwebassets/_framework/dotnet.runtime.8.0.7.b9ehw74ds4.js.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/dotnet.runtime.8.0.7.b9ehw74ds4.js.gz",
+      "PackagePath": "staticwebassets/_framework/dotnet.runtime.8.0.7.b9ehw74ds4.js.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_CJK.dat",
+      "PackagePath": "staticwebassets/_framework/icudt_CJK.dat"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_CJK.dat.br",
+      "PackagePath": "staticwebassets/_framework/icudt_CJK.dat.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_CJK.dat.gz",
+      "PackagePath": "staticwebassets/_framework/icudt_CJK.dat.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_EFIGS.dat",
+      "PackagePath": "staticwebassets/_framework/icudt_EFIGS.dat"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_EFIGS.dat.br",
+      "PackagePath": "staticwebassets/_framework/icudt_EFIGS.dat.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_EFIGS.dat.gz",
+      "PackagePath": "staticwebassets/_framework/icudt_EFIGS.dat.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_no_CJK.dat",
+      "PackagePath": "staticwebassets/_framework/icudt_no_CJK.dat"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_no_CJK.dat.br",
+      "PackagePath": "staticwebassets/_framework/icudt_no_CJK.dat.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/icudt_no_CJK.dat.gz",
+      "PackagePath": "staticwebassets/_framework/icudt_no_CJK.dat.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/test_client.pdb.gz",
+      "PackagePath": "staticwebassets/_framework/test_client.pdb.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/test_client.wasm",
+      "PackagePath": "staticwebassets/_framework/test_client.wasm"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/test_client.wasm.br",
+      "PackagePath": "staticwebassets/_framework/test_client.wasm.br"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/_framework/test_client.wasm.gz",
+      "PackagePath": "staticwebassets/_framework/test_client.wasm.gz"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "/home/leo_zhang/Documents/GitHub/test/wwwroot/test_client.styles.css",
+      "PackagePath": "staticwebassets/test_client.styles.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.test.props",
+      "PackagePath": "build\\test.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.test.props",
+      "PackagePath": "buildMultiTargeting\\test.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.test.props",
+      "PackagePath": "buildTransitive\\test.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
